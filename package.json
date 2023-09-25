@@ -1,0 +1,23 @@
+{
+  "name": "seputar-os",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "express": "^4.18.2",
+    "request-ip": "^3.3.0",
+    "systeminformation": "^5.21.1",
+    "xlsx": "^0.18.5"
+  }
+}

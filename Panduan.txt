@@ -1,0 +1,8 @@
+Tampilan sederhana untuk melihat siapa saja yang telah masuk ke website
+    Dengan mengambil
+-> Nama Os
+-> Type Os
+-> Nama Orang
+-> Alamat Ip 
+
+disimpan kedalam file excel dengan berbagai format
